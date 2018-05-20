@@ -1,0 +1,9 @@
+[
+    {
+        "judge": "uri", 
+        "category": {
+            "name": "Math",
+            "categoryIdJudge": 5
+        }
+    }
+]
