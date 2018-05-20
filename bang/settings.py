@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'django.contrib.humanize',
     'social_django',
+    'django_extensions',
     'home.apps.HomeConfig',
     'teams.apps.TeamsConfig',
     'users.apps.UsersConfig',
@@ -52,6 +53,7 @@ INSTALLED_APPS = [
     'groups.apps.GroupsConfig',
     'uri.apps.UriConfig',
     'aamas.apps.AamasConfig',
+    'recommender.apps.RecommenderConfig',
 ]
 
 MIDDLEWARE_CLASSES = [
